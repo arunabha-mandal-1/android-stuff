@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507854464711",
+    "project_id": "fir-auth-practice-e74da",
+    "storage_bucket": "fir-auth-practice-e74da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507854464711:android:14d5688dbcdf489e8b40e2",
+        "android_client_info": {
+          "package_name": "com.example.emailauthusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1AFyi5xNB3QH9IF4Jf0pZhDa9LM7UG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
